@@ -1,16 +1,3 @@
 Once upon a time...
-<<<<<<< main
 two coders stumbled upon a strange bug and tried to see what this strange new bug is, but all their attempt was futile since they couldnt really match it with any thing they have ever seen.
 so they decided to fight it in a long battle that took 2 years and they succeded 
-=======
->>>>>>> main
-As the artifact shattered, the dark presence vanished, and the village was restored to its former glory. The villagers rejoiced and celebrated the sorcerer's bravery and wisdom. From that day forward, the sorcerer was not only a beloved member of the village but also its guardian, ensuring that no harm would ever come to his newfound home again.
-
-And so, the village continued to thrive, a shining example of resilience and the enduring power of community. The sorcerer's tale was passed down through generations, a reminder that even in the face of darkness, hope and courage can light the way.
-From that day on, the village flourished like never before. The sorcerer's magic brought prosperity and happiness to the villagers, and they lived in harmony for many years. The village became a beacon of hope and inspiration for all who heard its story, a testament to the power of kindness and the magic of new beginnings.
-<<<<<<< main
-However, as time went on, the sorcerer began to notice a dark presence lurking in the shadows of the village. Strange occurrences began to happen - crops withered overnight, animals fell ill, and an eerie fog settled over the lake. The villagers grew fearful and turned to the sorcerer for help.
-=======
->>>>>>> main
-
-Determined to protect his new home, the sorcerer set out to uncover the source of the darkness. He ventured deep into the forest, where he discovered an ancient, cursed artifact buried beneath the roots of an old oak tree. Realizing the artifact was the cause of the village's misfortune, the sorcerer used his magic to destroy it.
